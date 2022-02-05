@@ -1,0 +1,61 @@
+2022-02-05 13:14:13,892; Database read successfully!
+2022-02-05 13:14:37,503; User entered wrong choice
+2022-02-05 13:14:42,728; User entered wrong choice
+2022-02-05 13:14:46,707; User chose to login to an existing account
+2022-02-05 13:18:09,483; Database read successfully!
+2022-02-05 13:18:16,793; User chose to login to an existing account
+2022-02-05 13:19:00,840; Database read successfully!
+2022-02-05 13:19:01,805; User chose to login to an existing account
+2022-02-05 13:19:33,145; Database read successfully!
+2022-02-05 13:19:34,237; User chose to login to an existing account
+2022-02-05 13:20:15,316; Database read successfully!
+2022-02-05 13:20:21,153; User chose to login to an existing account
+2022-02-05 13:20:46,888; Database read successfully!
+2022-02-05 13:20:54,513; User chose to login to an existing account
+2022-02-05 13:21:15,249; User chose to login to an existing account
+2022-02-05 13:21:32,864; User chose to creat a new account
+2022-02-05 13:21:51,096; Card number generated!
+2022-02-05 13:22:03,568; PIN did not match
+2022-02-05 13:22:42,216; PIN did not match
+2022-02-05 13:22:53,040; Number of users read successfully!
+2022-02-05 13:22:53,040; Number of users read successfully!
+2022-02-05 13:22:53,040; Number of users updated successfully!
+2022-02-05 13:22:53,075; Database updated successfully!
+2022-02-05 13:22:53,075; New account created!
+2022-02-05 13:23:06,649; User chose to withdraw money
+2022-02-05 13:23:11,848; Amount exceeds current balance
+2022-02-05 13:24:50,524; Database read successfully!
+2022-02-05 13:24:57,049; User chose to exit
+2022-02-05 13:25:04,272; Database read successfully!
+2022-02-05 13:25:07,712; User chose to creat a new account
+2022-02-05 13:25:15,089; Card number generated!
+2022-02-05 13:25:37,656; PIN did not match
+2022-02-05 13:25:45,501; Number of users read successfully!
+2022-02-05 13:25:45,502; Number of users read successfully!
+2022-02-05 13:25:45,502; Number of users updated successfully!
+2022-02-05 13:25:45,531; Database updated successfully!
+2022-02-05 13:25:45,531; New account created!
+2022-02-05 13:25:47,905; User chose to withdraw money
+2022-02-05 13:25:52,000; Amount exceeds current balance
+2022-02-05 13:26:02,104; User chose to withdraw money
+2022-02-05 13:26:05,544; Amount exceeds current balance
+2022-02-05 13:26:12,924; User chose to check the balance of his/her account
+2022-02-05 13:26:17,056; User entered invalid choice when asked if he/she wants to continue performing transactions!
+2022-02-05 13:26:26,212; User wants to continue transactions!
+2022-02-05 13:26:27,632; User chose to deposit money
+2022-02-05 13:27:04,606; Database read successfully!
+2022-02-05 13:27:14,011; User chose to login to an existing account
+2022-02-05 13:27:32,572; PIN matched! Logging in....
+2022-02-05 13:27:41,600; User chose to deposit money
+2022-02-05 13:27:44,898; Database updated successfully!
+2022-02-05 13:27:48,712; User wants to continue transactions!
+2022-02-05 13:27:49,840; User chose to withdraw money
+2022-02-05 13:27:53,724; Database updated successfully!
+2022-02-05 13:27:57,107; User wants to continue transactions!
+2022-02-05 13:27:58,748; User chose to check the balance of his/her account
+2022-02-05 13:28:07,237; User wants to continue transactions!
+2022-02-05 13:28:08,380; User chose to deposit money
+2022-02-05 13:28:10,702; Database updated successfully!
+2022-02-05 13:28:13,044; User wants to continue transactions!
+2022-02-05 13:28:13,768; User chose to withdraw money
+2022-02-05 13:28:19,181; Amount exceeds current balance
